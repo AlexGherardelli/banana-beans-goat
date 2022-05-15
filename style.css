@@ -1,0 +1,16 @@
+.title {
+    height: 150px;
+    padding-top: 50px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+iframe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
